@@ -1,1 +1,1 @@
-# Sistema-Ecommerce-Administraci-n-y-ventas-en-PHP-y-MySQL
+# Sistema-Ecommerce-Administracion-y-ventas-en-PHP-y-MySQL
